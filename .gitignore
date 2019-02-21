@@ -1,0 +1,3 @@
+*.cmd
+mock-trading/mvnw
+mock-trading/.mvn/
